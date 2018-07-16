@@ -11,8 +11,7 @@ div {
 }
 
 
-/* this selects any elements with the red id */
-#red { 
+#red { /* this selects any elements with the red id */
   color: #f00;
 }
 
